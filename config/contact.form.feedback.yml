@@ -1,0 +1,14 @@
+uuid: 3bb5ff6c-da63-49ca-9f10-63fcd9303f90
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - jeremy.dickens@pantheon.io
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
